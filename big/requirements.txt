@@ -1,6 +1,6 @@
 # © 2018
 # नमस्ते दुनिया
-Jinja2==2.7.2
+Jinja2==3.1.4
 Django==1.6.1
 python-etcd==0.4.5
 Django-Select2==6.0.1 # this version installs with lowercase so it catches a previous bug in pip_resolve.py
